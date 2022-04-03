@@ -12,7 +12,7 @@ A simple file hosting with PHP and MySQL as backend. By using this to your host,
 | fileencrypt | VARCHAR (1000) | NULL |
 | date_added | VARCHAR (100) | CURRENT_TIMESAMP |
 
-Then just modify the code for the design you want then upload.
+Then create a folder named mpop and use the chmod code (777) to allow access from the user into the host. Lastly, just modify the code for the design you want then upload.
 
 Notice: Don't remove the credits, as respect to the owner of the code. You may exclude my name, or organization but not the respective people and platforms on my credits.
 
