@@ -1,3 +1,7 @@
 <?php
-	$con = mysqli_connect("sql109.unaux.com","unaux_30365687","h7o2wx0zyq","unaux_30365687_kimmy");
+	$host = "localhost";
+	$db_user = "root";
+	$db_pass = "";
+	$db_name = "MyDatabase";
+	$con = mysqli_connect($host, $db_user, $db_pass, $db_name);
 ?>
